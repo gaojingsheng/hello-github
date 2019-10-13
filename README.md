@@ -1,2 +1,2 @@
-# hello-githun
+# hello-github
 first project
